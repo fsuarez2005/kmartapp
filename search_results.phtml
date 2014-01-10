@@ -1,0 +1,73 @@
+<?php
+
+   require_once('searsapi.php');
+   require_once('ksn.php');
+
+   ?>
+<html>
+  <head>
+    <style type="text/css">
+      body {
+      text-align:center;
+      font-size: 36pt;
+
+      }
+
+      td {
+      border: 2px solid black;
+      padding: 3px;
+      font-size:30pt;
+
+      }
+
+
+    </style>
+
+
+  </head>
+  <body>
+    <h2>Search Results</h2>
+    <?
+
+       // send request to Sears API
+
+       $sears = new SearsAPIConnection();
+
+       $resp = $sears->keyword_search($_GET["keyword"]);
+
+
+    echo '<table>';
+
+      //echo '<tr><td>Name</td><td>KSN</td></tr>';
+
+      foreach ($resp->get_json()->SearchResults->Products as $product) {
+
+      echo '<tr>'.
+	'<td>'.$product->Description->Name.'</td>'.
+	//'<td>'.$product->Id->KsnValue.'</td>'.
+	'<td>'.partial_ksn_2_full($product->Id->KsnValue).'</td>';
+
+	if ($product->Availability->StockIndicator == '1') {
+	echo '<td>In Stock</td>';
+
+	} else {
+	echo '<td>Out of Stock</td>';
+
+	}
+
+
+	echo '</tr>';   
+
+      
+
+      }
+
+      echo '</table>';
+
+
+
+
+    ?>
+
+  </body>
+</html>

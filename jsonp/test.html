@@ -1,0 +1,33 @@
+// !!!!! the Sears API server does not output the correct format for JSONP
+
+
+
+
+<html>
+<head>
+</head>
+<body>
+
+
+
+</body>
+<script type="application/javascript">
+var h = document.getElementsByTagName('head')[0];
+s1 = document.createElement('script');
+s1.setAttribute('type','application/javascript');
+
+s1.setAttribute('src','http://api.developer.sears.com/v2.1/products/search/Kmart/json/keyword/toys?keyword=toys&searchType=search&apikey=dTOQ78NQu2FV3wNNfkJNxBkAPNrvLeUA&storeName=Kmart&Content=json&category=&filter=&sortBy=&catGroupID=&startIndex=&endIndex=&customData=&');
+
+
+
+h.appendChild(s1);
+
+alert(h.innerHTML);
+
+
+</script>
+
+
+
+
+</html>

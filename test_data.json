@@ -1,0 +1,2379 @@
+stdClass Object
+(
+    [SearchResults] => stdClass Object
+        (
+            [ProductCount] => 16460
+            [Products] => Array
+                (
+                    [0] => stdClass Object
+                        (
+                            [Id] => stdClass Object
+                                (
+                                    [PartNumber] => 004W003514561000P
+                                    [SkuPartNumber] => 3514561
+                                    [CatEntryId] => 1584993
+                                    [MfgPartNumber] => 72426
+                                    [KsnValue] => 3514561
+                                )
+
+                            [Description] => stdClass Object
+                                (
+                                    [Name] => Who's That Girl Stylist and Hair Set
+                                    [ImageURL] => http://c.shld.net/rpx/i/s/i/spin/image/spin_prod_257889801
+                                    [PbType] => NONVARIATION
+                                    [ReviewRating] => stdClass Object
+                                        (
+                                            [Rating] => 3.5000
+                                            [NumReview] => 7
+                                        )
+
+                                )
+
+                            [Price] => stdClass Object
+                                (
+                                    [DisplayPrice] => 15.99
+                                    [ClearanceIndicator] => 0
+                                    [PromoInd] => 1
+                                )
+
+                            [Availability] => stdClass Object
+                                (
+                                    [StockIndicator] => 1
+                                    [Source] => Online
+                                    [SpuInd] => true
+                                    [ResInd] => 1
+                                    [FreeShippingEligible] => True
+                                )
+
+                            [SellerInfo] => stdClass Object
+                                (
+                                    [StoreOrigin] => K
+                                    [SellerCount] => 0
+                                )
+
+                            [Fulfillment] => stdClass Object
+                                (
+                                    [DefaultFullfillment] => TW
+                                    [DirectDelivery] => false
+                                )
+
+                            [OtherInfo] => stdClass Object
+                                (
+                                    [BeanType] => ProductBean
+                                    [AutomotiveDivision] => false
+                                    [NewBundleExperience] => No
+                                )
+
+                        )
+
+                    [1] => stdClass Object
+                        (
+                            [Id] => stdClass Object
+                                (
+                                    [PartNumber] => 004W003313243000P
+                                    [SkuPartNumber] => 3313243
+                                    [CatEntryId] => 1587090
+                                    [MfgPartNumber] => 30297
+                                    [KsnValue] => 3313243
+                                )
+
+                            [Description] => stdClass Object
+                                (
+                                    [Name] => My First Craftsman 30 pcs Tool Box Set
+                                    [BrandName] => My First Craftsman
+                                    [ImageURL] => http://c.shld.net/rpx/i/s/i/spin/image/spin_prod_868754612
+                                    [PbType] => NONVARIATION
+                                    [ReviewRating] => stdClass Object
+                                        (
+                                            [Rating] => 4.0000
+                                            [NumReview] => 7
+                                        )
+
+                                )
+
+                            [Price] => stdClass Object
+                                (
+                                    [DisplayPrice] => 12.99
+                                    [ClearanceIndicator] => 0
+                                    [PromoInd] => 1
+                                )
+
+                            [Availability] => stdClass Object
+                                (
+                                    [StockIndicator] => 1
+                                    [Source] => Online
+                                    [SpuInd] => true
+                                    [ResInd] => 1
+                                    [FreeShippingEligible] => True
+                                )
+
+                            [SellerInfo] => stdClass Object
+                                (
+                                    [StoreOrigin] => K
+                                    [SellerCount] => 0
+                                )
+
+                            [Fulfillment] => stdClass Object
+                                (
+                                    [DefaultFullfillment] => TW
+                                    [DirectDelivery] => false
+                                )
+
+                            [OtherInfo] => stdClass Object
+                                (
+                                    [BeanType] => ProductBean
+                                    [AutomotiveDivision] => false
+                                    [NewBundleExperience] => No
+                                )
+
+                        )
+
+                    [2] => stdClass Object
+                        (
+                            [Id] => stdClass Object
+                                (
+                                    [PartNumber] => 004W041265130001P
+                                    [SkuPartNumber] => 4126513
+                                    [CatEntryId] => 872471
+                                    [MfgPartNumber] => 985396
+                                    [KsnValue] => 4126513
+                                )
+
+                            [Description] => stdClass Object
+                                (
+                                    [Name] => Fisher-Price Brilliant Basics Baby's First Blocks, 6M+, 1 toy
+                                    [BrandName] => Fisher-Price
+                                    [ImageURL] => http://c.shld.net/rpx/i/s/i/spin/image/spin_prod_393645301
+                                    [PbType] => NONVARIATION
+                                    [ReviewRating] => stdClass Object
+                                        (
+                                            [Rating] => 4.5000
+                                            [NumReview] => 45
+                                        )
+
+                                )
+
+                            [Price] => stdClass Object
+                                (
+                                    [CutPrice] => 11.99
+                                    [DisplayPrice] => 8.00
+                                    [ClearanceIndicator] => 0
+                                    [PromoInd] => 1
+                                )
+
+                            [Availability] => stdClass Object
+                                (
+                                    [SaleIndicator] => 1
+                                    [StockIndicator] => 1
+                                    [Source] => Online
+                                    [SpuInd] => true
+                                    [ResInd] => 1
+                                    [FreeShippingEligible] => True
+                                )
+
+                            [SellerInfo] => stdClass Object
+                                (
+                                    [StoreOrigin] => K
+                                    [SellerCount] => 0
+                                )
+
+                            [Fulfillment] => stdClass Object
+                                (
+                                    [DefaultFullfillment] => TW
+                                    [DirectDelivery] => false
+                                )
+
+                            [OtherInfo] => stdClass Object
+                                (
+                                    [BeanType] => ProductBean
+                                    [AutomotiveDivision] => false
+                                    [NewBundleExperience] => No
+                                )
+
+                        )
+
+                    [3] => stdClass Object
+                        (
+                            [Id] => stdClass Object
+                                (
+                                    [PartNumber] => 024W320866110001P
+                                    [SkuPartNumber] => 32086611
+                                    [CatEntryId] => 711348
+                                    [MfgPartNumber] => 80-073300
+                                    [KsnValue] => 32086611
+                                )
+
+                            [Description] => stdClass Object
+                                (
+                                    [Name] => Vtech Happy Lights Bear
+                                    [BrandName] => Vtech
+                                    [ImageURL] => http://c.shld.net/rpx/i/s/i/spin/image/spin_prod_377832401
+                                    [PbType] => NONVARIATION
+                                    [ReviewRating] => stdClass Object
+                                        (
+                                            [Rating] => 5.0000
+                                            [NumReview] => 7
+                                        )
+
+                                )
+
+                            [Price] => stdClass Object
+                                (
+                                    [DisplayPrice] => 8.99
+                                    [ClearanceIndicator] => 0
+                                    [PromoInd] => 1
+                                )
+
+                            [Availability] => stdClass Object
+                                (
+                                    [StockIndicator] => 1
+                                    [Source] => Online
+                                    [SpuInd] => true
+                                    [FreeShippingEligible] => True
+                                )
+
+                            [SellerInfo] => stdClass Object
+                                (
+                                    [StoreOrigin] => K
+                                    [SellerCount] => 0
+                                )
+
+                            [Fulfillment] => stdClass Object
+                                (
+                                    [DefaultFullfillment] => TW
+                                    [DirectDelivery] => false
+                                )
+
+                            [OtherInfo] => stdClass Object
+                                (
+                                    [BeanType] => ProductBean
+                                    [AutomotiveDivision] => false
+                                    [NewBundleExperience] => No
+                                )
+
+                        )
+
+                    [4] => stdClass Object
+                        (
+                            [Id] => stdClass Object
+                                (
+                                    [PartNumber] => 024W005026113001P
+                                    [SkuPartNumber] => 5026113
+                                    [CatEntryId] => 2378597
+                                    [MfgPartNumber] => 80-117600
+                                    [KsnValue] => 5026113
+                                )
+
+                            [Description] => stdClass Object
+                                (
+                                    [Name] => Vtech Twinkle & Learn Tambourine
+                                    [BrandName] => Vtech
+                                    [ImageURL] => http://c.shld.net/rpx/i/s/i/spin/image/spin_prod_880686712
+                                    [PbType] => NONVARIATION
+                                    [ReviewRating] => stdClass Object
+                                        (
+                                        )
+
+                                )
+
+                            [Price] => stdClass Object
+                                (
+                                    [DisplayPrice] => 8.99
+                                    [ClearanceIndicator] => 0
+                                    [PromoInd] => 1
+                                )
+
+                            [Availability] => stdClass Object
+                                (
+                                    [StockIndicator] => 1
+                                    [Source] => Online
+                                    [SpuInd] => true
+                                    [FreeShippingEligible] => True
+                                )
+
+                            [SellerInfo] => stdClass Object
+                                (
+                                    [StoreOrigin] => K
+                                    [SellerCount] => 0
+                                )
+
+                            [Fulfillment] => stdClass Object
+                                (
+                                    [DefaultFullfillment] => TW
+                                    [DirectDelivery] => false
+                                )
+
+                            [OtherInfo] => stdClass Object
+                                (
+                                    [BeanType] => ProductBean
+                                    [AutomotiveDivision] => false
+                                    [NewBundleExperience] => No
+                                )
+
+                        )
+
+                    [5] => stdClass Object
+                        (
+                            [Id] => stdClass Object
+                                (
+                                    [PartNumber] => 004W002355867002P
+                                    [SkuPartNumber] => 2355867
+                                    [CatEntryId] => 1866710
+                                    [MfgPartNumber] => 7086
+                                    [KsnValue] => 2355867
+                                )
+
+                            [Description] => stdClass Object
+                                (
+                                    [Name] => Just Kidz Portable Walkie Talkies
+                                    [BrandName] => Just Kidz
+                                    [ImageURL] => http://c.shld.net/rpx/i/s/i/spin/image/spin_prod_868742312
+                                    [PbType] => NONVARIATION
+                                    [ReviewRating] => stdClass Object
+                                        (
+                                            [Rating] => 3.5000
+                                            [NumReview] => 2
+                                        )
+
+                                )
+
+                            [Price] => stdClass Object
+                                (
+                                    [DisplayPrice] => 7.00
+                                    [ClearanceIndicator] => 0
+                                    [PromoInd] => 1
+                                )
+
+                            [Availability] => stdClass Object
+                                (
+                                    [StockIndicator] => 1
+                                    [Source] => Online
+                                    [SpuInd] => true
+                                    [ResInd] => 1
+                                    [FreeShippingEligible] => True
+                                )
+
+                            [SellerInfo] => stdClass Object
+                                (
+                                    [StoreOrigin] => K
+                                    [SellerCount] => 0
+                                )
+
+                            [Fulfillment] => stdClass Object
+                                (
+                                    [DefaultFullfillment] => TW
+                                    [DirectDelivery] => false
+                                )
+
+                            [OtherInfo] => stdClass Object
+                                (
+                                    [BeanType] => ProductBean
+                                    [AutomotiveDivision] => false
+                                    [NewBundleExperience] => No
+                                )
+
+                        )
+
+                    [6] => stdClass Object
+                        (
+                            [Id] => stdClass Object
+                                (
+                                    [PartNumber] => 9990000066660511P
+                                    [SkuPartNumber] => 66660511
+                                    [CatEntryId] => 55230
+                                    [MfgPartNumber] => C7483
+                                    [KsnValue] => 66660511
+                                )
+
+                            [Description] => stdClass Object
+                                (
+                                    [Name] => Fisher-Price Dance, Baby, Dance Musical Stacking Stars Classical Stacker&#8482;
+                                    [BrandName] => Fisher-Price
+                                    [ImageURL] => http://c.shld.net/rpx/i/s/i/spin/image/spin_prod_289476901
+                                    [PbType] => NONVARIATION
+                                    [ReviewRating] => stdClass Object
+                                        (
+                                            [Rating] => 4.0000
+                                            [NumReview] => 13
+                                        )
+
+                                )
+
+                            [Price] => stdClass Object
+                                (
+                                    [CutPrice] => 15.99
+                                    [DisplayPrice] => 13.29
+                                    [ClearanceIndicator] => 0
+                                    [PromoInd] => 1
+                                )
+
+                            [Availability] => stdClass Object
+                                (
+                                    [SaleIndicator] => 1
+                                    [StockIndicator] => 1
+                                    [Source] => Online
+                                    [SpuInd] => true
+                                    [ResInd] => 1
+                                    [FreeShippingEligible] => True
+                                )
+
+                            [SellerInfo] => stdClass Object
+                                (
+                                    [StoreOrigin] => K
+                                    [SellerCount] => 0
+                                )
+
+                            [Fulfillment] => stdClass Object
+                                (
+                                    [DefaultFullfillment] => TW
+                                    [DirectDelivery] => false
+                                )
+
+                            [OtherInfo] => stdClass Object
+                                (
+                                    [BeanType] => ProductBean
+                                    [AutomotiveDivision] => false
+                                    [NewBundleExperience] => No
+                                )
+
+                        )
+
+                    [7] => stdClass Object
+                        (
+                            [Id] => stdClass Object
+                                (
+                                    [PartNumber] => 004W042572110001P
+                                    [SkuPartNumber] => 4257211
+                                    [CatEntryId] => 1042269
+                                    [MfgPartNumber] => N1672
+                                    [KsnValue] => 4257211
+                                )
+
+                            [Description] => stdClass Object
+                                (
+                                    [Name] => Laugh & Learn See 'n Say, The Farmer Says, 1 toy
+                                    [BrandName] => Laugh & Learn
+                                    [ImageURL] => http://c.shld.net/rpx/i/s/i/spin/image/spin_prod_120522301
+                                    [PbType] => NONVARIATION
+                                    [ReviewRating] => stdClass Object
+                                        (
+                                            [Rating] => 4.5000
+                                            [NumReview] => 20
+                                        )
+
+                                )
+
+                            [Price] => stdClass Object
+                                (
+                                    [DisplayPrice] => 14.89
+                                    [ClearanceIndicator] => 0
+                                    [PromoInd] => 1
+                                )
+
+                            [Availability] => stdClass Object
+                                (
+                                    [StockIndicator] => 1
+                                    [Source] => Online
+                                    [SpuInd] => true
+                                    [ResInd] => 1
+                                    [FreeShippingEligible] => True
+                                )
+
+                            [SellerInfo] => stdClass Object
+                                (
+                                    [StoreOrigin] => K
+                                    [SellerCount] => 0
+                                )
+
+                            [Fulfillment] => stdClass Object
+                                (
+                                    [DefaultFullfillment] => TW
+                                    [DirectDelivery] => false
+                                )
+
+                            [OtherInfo] => stdClass Object
+                                (
+                                    [BeanType] => ProductBean
+                                    [AutomotiveDivision] => false
+                                    [NewBundleExperience] => No
+                                )
+
+                        )
+
+                    [8] => stdClass Object
+                        (
+                            [Id] => stdClass Object
+                                (
+                                    [PartNumber] => 024W449793830001P
+                                    [SkuPartNumber] => 44979383
+                                    [CatEntryId] => 1008520
+                                    [MfgPartNumber] => 8863-12-W11
+                                    [KsnValue] => 44979383
+                                )
+
+                            [Description] => stdClass Object
+                                (
+                                    [Name] => Bright Starts Flexi Ball, 0+, 1 toy
+                                    [BrandName] => Bright Starts
+                                    [ImageURL] => http://c.shld.net/rpx/i/s/i/spin/image/spin_prod_ec_808146801
+                                    [PbType] => NONVARIATION
+                                    [ReviewRating] => stdClass Object
+                                        (
+                                            [Rating] => 4.0000
+                                            [NumReview] => 4
+                                        )
+
+                                )
+
+                            [Price] => stdClass Object
+                                (
+                                    [DisplayPrice] => 4.99
+                                    [ClearanceIndicator] => 0
+                                    [PromoInd] => 1
+                                )
+
+                            [Availability] => stdClass Object
+                                (
+                                    [StockIndicator] => 1
+                                    [Source] => Online
+                                    [SpuInd] => true
+                                    [FreeShippingEligible] => True
+                                )
+
+                            [SellerInfo] => stdClass Object
+                                (
+                                    [StoreOrigin] => K
+                                    [SellerCount] => 0
+                                )
+
+                            [Fulfillment] => stdClass Object
+                                (
+                                    [DefaultFullfillment] => TW
+                                    [DirectDelivery] => false
+                                )
+
+                            [OtherInfo] => stdClass Object
+                                (
+                                    [BeanType] => ProductBean
+                                    [AutomotiveDivision] => false
+                                    [NewBundleExperience] => No
+                                )
+
+                        )
+
+                    [9] => stdClass Object
+                        (
+                            [Id] => stdClass Object
+                                (
+                                    [PartNumber] => 04919258000P
+                                    [SkuPartNumber] => 4260424
+                                    [CatEntryId] => 43186871
+                                    [KsnValue] => 4260424
+                                )
+
+                            [Description] => stdClass Object
+                                (
+                                    [Name] => Bright Starts Lights and Sounds Fun Pad
+                                    [BrandName] => Bright Starts
+                                    [ImageURL] => http://c.shld.net/rpx/i/s/i/spin/image/spin_prod_651415301
+                                    [PbType] => NONVARIATION
+                                    [ReviewRating] => stdClass Object
+                                        (
+                                            [Rating] => 5.0000
+                                            [NumReview] => 4
+                                        )
+
+                                )
+
+                            [Price] => stdClass Object
+                                (
+                                    [DisplayPrice] => 10.99
+                                    [ClearanceIndicator] => 0
+                                    [PromoInd] => 1
+                                )
+
+                            [Availability] => stdClass Object
+                                (
+                                    [StockIndicator] => 1
+                                    [Source] => Online
+                                    [SpuInd] => true
+                                    [ResInd] => 1
+                                    [FreeShippingEligible] => True
+                                )
+
+                            [SellerInfo] => stdClass Object
+                                (
+                                    [StoreOrigin] => S
+                                    [SellerCount] => 0
+                                )
+
+                            [Fulfillment] => stdClass Object
+                                (
+                                    [DefaultFullfillment] => TW
+                                    [DirectDelivery] => false
+                                )
+
+                            [OtherInfo] => stdClass Object
+                                (
+                                    [BeanType] => ProductBean
+                                    [AutomotiveDivision] => false
+                                    [NewBundleExperience] => No
+                                )
+
+                        )
+
+                    [10] => stdClass Object
+                        (
+                            [Id] => stdClass Object
+                                (
+                                    [PartNumber] => 024W005129667001P
+                                    [SkuPartNumber] => 5129667
+                                    [CatEntryId] => 2243739
+                                    [MfgPartNumber] => 80158
+                                    [KsnValue] => 5129667
+                                )
+
+                            [Description] => stdClass Object
+                                (
+                                    [Name] => Sassy Electronic Keys, 3+ Months, 1 toy
+                                    [BrandName] => Sassy
+                                    [ImageURL] => http://c.shld.net/rpx/i/s/i/spin/image/spin_prod_ec_985646210
+                                    [PbType] => NONVARIATION
+                                    [ReviewRating] => stdClass Object
+                                        (
+                                        )
+
+                                )
+
+                            [Price] => stdClass Object
+                                (
+                                    [DisplayPrice] => 5.99
+                                    [ClearanceIndicator] => 0
+                                    [PromoInd] => 1
+                                )
+
+                            [Availability] => stdClass Object
+                                (
+                                    [StockIndicator] => 1
+                                    [Source] => Online
+                                    [SpuInd] => true
+                                    [FreeShippingEligible] => True
+                                )
+
+                            [SellerInfo] => stdClass Object
+                                (
+                                    [StoreOrigin] => K
+                                    [SellerCount] => 0
+                                )
+
+                            [Fulfillment] => stdClass Object
+                                (
+                                    [DefaultFullfillment] => TW
+                                    [DirectDelivery] => false
+                                )
+
+                            [OtherInfo] => stdClass Object
+                                (
+                                    [BeanType] => ProductBean
+                                    [AutomotiveDivision] => false
+                                    [NewBundleExperience] => No
+                                )
+
+                        )
+
+                    [11] => stdClass Object
+                        (
+                            [Id] => stdClass Object
+                                (
+                                    [PartNumber] => 004W023456800001P
+                                    [SkuPartNumber] => 2345680
+                                    [CatEntryId] => 1236590
+                                    [MfgPartNumber] => 60033
+                                    [KsnValue] => 2345680
+                                )
+
+                            [Description] => stdClass Object
+                                (
+                                    [Name] => Jakks Pacific Doll Play Set - Pink & Blue (color may vary)
+                                    [BrandName] => Jakks Pacific
+                                    [ImageURL] => http://c.shld.net/rpx/i/s/i/spin/image/spin_prod_918140312
+                                    [PbType] => NONVARIATION
+                                    [ReviewRating] => stdClass Object
+                                        (
+                                            [Rating] => 4.5000
+                                            [NumReview] => 19
+                                        )
+
+                                )
+
+                            [Price] => stdClass Object
+                                (
+                                    [DisplayPrice] => 32.99
+                                    [ClearanceIndicator] => 0
+                                    [PromoInd] => 1
+                                )
+
+                            [Availability] => stdClass Object
+                                (
+                                    [StockIndicator] => 1
+                                    [Source] => Online
+                                    [SpuInd] => true
+                                    [ResInd] => 1
+                                    [FreeShippingEligible] => True
+                                )
+
+                            [SellerInfo] => stdClass Object
+                                (
+                                    [StoreOrigin] => K
+                                    [SellerCount] => 0
+                                )
+
+                            [Fulfillment] => stdClass Object
+                                (
+                                    [DefaultFullfillment] => TW
+                                    [DirectDelivery] => false
+                                )
+
+                            [OtherInfo] => stdClass Object
+                                (
+                                    [BeanType] => ProductBean
+                                    [AutomotiveDivision] => false
+                                    [NewBundleExperience] => No
+                                )
+
+                        )
+
+                    [12] => stdClass Object
+                        (
+                            [Id] => stdClass Object
+                                (
+                                    [PartNumber] => 024W449797340001P
+                                    [SkuPartNumber] => 44979734
+                                    [CatEntryId] => 1008522
+                                    [MfgPartNumber] => 8916-12-W11
+                                    [KsnValue] => 44979734
+                                )
+
+                            [Description] => stdClass Object
+                                (
+                                    [Name] => Bright Starts Snuggle & Teethe, 0M+, 1 toy
+                                    [BrandName] => Bright Starts
+                                    [ImageURL] => http://c.shld.net/rpx/i/s/i/spin/image/spin_prod_ec_793732101
+                                    [PbType] => NONVARIATION
+                                    [ReviewRating] => stdClass Object
+                                        (
+                                        )
+
+                                )
+
+                            [Price] => stdClass Object
+                                (
+                                    [DisplayPrice] => 5.99
+                                    [ClearanceIndicator] => 0
+                                    [PromoInd] => 1
+                                )
+
+                            [Availability] => stdClass Object
+                                (
+                                    [StockIndicator] => 1
+                                    [Source] => Online
+                                    [SpuInd] => true
+                                    [FreeShippingEligible] => True
+                                )
+
+                            [SellerInfo] => stdClass Object
+                                (
+                                    [StoreOrigin] => K
+                                    [SellerCount] => 0
+                                )
+
+                            [Fulfillment] => stdClass Object
+                                (
+                                    [DefaultFullfillment] => TW
+                                    [DirectDelivery] => false
+                                )
+
+                            [OtherInfo] => stdClass Object
+                                (
+                                    [BeanType] => ProductBean
+                                    [AutomotiveDivision] => false
+                                    [NewBundleExperience] => No
+                                )
+
+                        )
+
+                    [13] => stdClass Object
+                        (
+                            [Id] => stdClass Object
+                                (
+                                    [PartNumber] => 004W006281563001P
+                                    [SkuPartNumber] => 6281563
+                                    [CatEntryId] => 2297184
+                                    [MfgPartNumber] => 20010
+                                    [KsnValue] => 6281563
+                                )
+
+                            [Description] => stdClass Object
+                                (
+                                    [Name] => American Plastic Toys My Very Own Shop and Play Market Set
+                                    [BrandName] => American Plastic Toys
+                                    [ImageURL] => http://c.shld.net/rpx/i/s/i/spin/image/spin_prod_854133412
+                                    [PbType] => NONVARIATION
+                                    [ReviewRating] => stdClass Object
+                                        (
+                                        )
+
+                                )
+
+                            [Price] => stdClass Object
+                                (
+                                    [CutPrice] => 27.99
+                                    [DisplayPrice] => 19.96
+                                    [ClearanceIndicator] => 0
+                                    [PromoInd] => 1
+                                )
+
+                            [Availability] => stdClass Object
+                                (
+                                    [SaleIndicator] => 1
+                                    [StockIndicator] => 1
+                                    [Source] => Online
+                                    [SpuInd] => true
+                                    [ResInd] => 1
+                                    [FreeShippingEligible] => False
+                                )
+
+                            [SellerInfo] => stdClass Object
+                                (
+                                    [StoreOrigin] => K
+                                    [SellerCount] => 0
+                                )
+
+                            [Fulfillment] => stdClass Object
+                                (
+                                    [DefaultFullfillment] => TW
+                                    [DirectDelivery] => false
+                                )
+
+                            [OtherInfo] => stdClass Object
+                                (
+                                    [BeanType] => ProductBean
+                                    [AutomotiveDivision] => false
+                                    [NewBundleExperience] => No
+                                )
+
+                        )
+
+                    [14] => stdClass Object
+                        (
+                            [Id] => stdClass Object
+                                (
+                                    [PartNumber] => 004W003535997000P
+                                    [SkuPartNumber] => 3535997
+                                    [CatEntryId] => 1539632
+                                    [MfgPartNumber] => 3535997
+                                    [KsnValue] => 3535997
+                                )
+
+                            [Description] => stdClass Object
+                                (
+                                    [Name] => Vtech Sit-To-Stand Learning Walker
+                                    [BrandName] => Vtech
+                                    [ImageURL] => http://c.shld.net/rpx/i/s/i/spin/image/spin_prod_652435301
+                                    [PbType] => NONVARIATION
+                                    [ReviewRating] => stdClass Object
+                                        (
+                                            [Rating] => 4.5000
+                                            [NumReview] => 76
+                                        )
+
+                                )
+
+                            [Price] => stdClass Object
+                                (
+                                    [DisplayPrice] => 29.99
+                                    [ClearanceIndicator] => 0
+                                    [PromoInd] => 1
+                                )
+
+                            [Availability] => stdClass Object
+                                (
+                                    [StockIndicator] => 1
+                                    [Source] => Online
+                                    [SpuInd] => true
+                                    [ResInd] => 1
+                                    [FreeShippingEligible] => True
+                                )
+
+                            [SellerInfo] => stdClass Object
+                                (
+                                    [StoreOrigin] => K
+                                    [SellerCount] => 0
+                                )
+
+                            [Fulfillment] => stdClass Object
+                                (
+                                    [DefaultFullfillment] => TW
+                                    [DirectDelivery] => false
+                                )
+
+                            [OtherInfo] => stdClass Object
+                                (
+                                    [BeanType] => ProductBean
+                                    [AutomotiveDivision] => false
+                                    [NewBundleExperience] => No
+                                )
+
+                        )
+
+                    [15] => stdClass Object
+                        (
+                            [Id] => stdClass Object
+                                (
+                                    [PartNumber] => 004W003244455000P
+                                    [SkuPartNumber] => 3244455
+                                    [CatEntryId] => 1544136
+                                    [MfgPartNumber] => 19186
+                                    [KsnValue] => 3244455
+                                )
+
+                            [Description] => stdClass Object
+                                (
+                                    [Name] => LeapFrog Chat & Count Cell Phone (Violet)
+                                    [BrandName] => LeapFrog
+                                    [ImageURL] => http://c.shld.net/rpx/i/s/i/spin/image/spin_prod_896736512
+                                    [PbType] => NONVARIATION
+                                    [ReviewRating] => stdClass Object
+                                        (
+                                            [Rating] => 4.5000
+                                            [NumReview] => 3
+                                        )
+
+                                )
+
+                            [Price] => stdClass Object
+                                (
+                                    [CutPrice] => 16.99
+                                    [DisplayPrice] => 11.86
+                                    [ClearanceIndicator] => 0
+                                    [PromoInd] => 1
+                                )
+
+                            [Availability] => stdClass Object
+                                (
+                                    [SaleIndicator] => 1
+                                    [StockIndicator] => 1
+                                    [Source] => Online
+                                    [SpuInd] => true
+                                    [ResInd] => 1
+                                    [FreeShippingEligible] => True
+                                )
+
+                            [SellerInfo] => stdClass Object
+                                (
+                                    [StoreOrigin] => K
+                                    [SellerCount] => 0
+                                )
+
+                            [Fulfillment] => stdClass Object
+                                (
+                                    [DefaultFullfillment] => TW
+                                    [DirectDelivery] => false
+                                )
+
+                            [OtherInfo] => stdClass Object
+                                (
+                                    [BeanType] => ProductBean
+                                    [AutomotiveDivision] => false
+                                    [NewBundleExperience] => No
+                                )
+
+                        )
+
+                    [16] => stdClass Object
+                        (
+                            [Id] => stdClass Object
+                                (
+                                    [PartNumber] => 004W003576412000P
+                                    [SkuPartNumber] => 3576412
+                                    [CatEntryId] => 1625965
+                                    [MfgPartNumber] => 5047
+                                    [KsnValue] => 3576412
+                                )
+
+                            [Description] => stdClass Object
+                                (
+                                    [Name] => Crayola CRAYOLA 3-in-1 Double Easel
+                                    [BrandName] => Crayola
+                                    [ImageURL] => http://c.shld.net/rpx/i/s/i/spin/image/spin_prod_822839112
+                                    [PbType] => NONVARIATION
+                                    [ReviewRating] => stdClass Object
+                                        (
+                                            [Rating] => 5.0000
+                                            [NumReview] => 12
+                                        )
+
+                                )
+
+                            [Price] => stdClass Object
+                                (
+                                    [CutPrice] => 49.99
+                                    [DisplayPrice] => 34.96
+                                    [ClearanceIndicator] => 0
+                                    [PromoInd] => 1
+                                )
+
+                            [Availability] => stdClass Object
+                                (
+                                    [SaleIndicator] => 1
+                                    [StockIndicator] => 1
+                                    [Source] => Online
+                                    [SpuInd] => true
+                                    [ResInd] => 1
+                                    [FreeShippingEligible] => False
+                                )
+
+                            [SellerInfo] => stdClass Object
+                                (
+                                    [StoreOrigin] => K
+                                    [SellerCount] => 0
+                                )
+
+                            [Fulfillment] => stdClass Object
+                                (
+                                    [DefaultFullfillment] => TW
+                                    [DirectDelivery] => false
+                                )
+
+                            [OtherInfo] => stdClass Object
+                                (
+                                    [BeanType] => ProductBean
+                                    [AutomotiveDivision] => false
+                                    [NewBundleExperience] => No
+                                )
+
+                        )
+
+                    [17] => stdClass Object
+                        (
+                            [Id] => stdClass Object
+                                (
+                                    [PartNumber] => 004W690649110002P
+                                    [SkuPartNumber] => 69064911
+                                    [CatEntryId] => 1169246
+                                    [MfgPartNumber] => 45400b
+                                    [KsnValue] => 69064911
+                                )
+
+                            [Description] => stdClass Object
+                                (
+                                    [Name] => Buzz Bee Toys Air Blaster Twin TEK with Target - Colors Vary
+                                    [BrandName] => Buzz Bee Toys
+                                    [ImageURL] => http://c.shld.net/rpx/i/s/i/spin/image/spin_prod_123590601
+                                    [PbType] => NONVARIATION
+                                    [ReviewRating] => stdClass Object
+                                        (
+                                        )
+
+                                )
+
+                            [Price] => stdClass Object
+                                (
+                                    [DisplayPrice] => 11.69
+                                    [ClearanceIndicator] => 0
+                                    [PromoInd] => 1
+                                )
+
+                            [Availability] => stdClass Object
+                                (
+                                    [StockIndicator] => 1
+                                    [Source] => Online
+                                    [SpuInd] => true
+                                    [FreeShippingEligible] => True
+                                )
+
+                            [SellerInfo] => stdClass Object
+                                (
+                                    [StoreOrigin] => K
+                                    [SellerCount] => 0
+                                )
+
+                            [Fulfillment] => stdClass Object
+                                (
+                                    [DefaultFullfillment] => TW
+                                    [DirectDelivery] => false
+                                )
+
+                            [OtherInfo] => stdClass Object
+                                (
+                                    [BeanType] => ProductBean
+                                    [AutomotiveDivision] => false
+                                    [NewBundleExperience] => No
+                                )
+
+                        )
+
+                    [18] => stdClass Object
+                        (
+                            [Id] => stdClass Object
+                                (
+                                    [PartNumber] => 004W002357004000P
+                                    [SkuPartNumber] => 2357004
+                                    [CatEntryId] => 1604443
+                                    [MfgPartNumber] => 21018
+                                    [KsnValue] => 2357004
+                                )
+
+                            [Description] => stdClass Object
+                                (
+                                    [Name] => HASBRO Play-Doh Numbers, Letters &#8216;n Fun
+                                    [BrandName] => HASBRO
+                                    [ImageURL] => http://c.shld.net/rpx/i/s/i/spin/image/spin_prod_543030701
+                                    [PbType] => NONVARIATION
+                                    [ReviewRating] => stdClass Object
+                                        (
+                                            [Rating] => 5.0000
+                                            [NumReview] => 2
+                                        )
+
+                                )
+
+                            [Price] => stdClass Object
+                                (
+                                    [DisplayPrice] => 7.99
+                                    [ClearanceIndicator] => 0
+                                    [PromoInd] => 1
+                                )
+
+                            [Availability] => stdClass Object
+                                (
+                                    [StockIndicator] => 1
+                                    [Source] => Online
+                                    [SpuInd] => true
+                                    [ResInd] => 1
+                                    [FreeShippingEligible] => True
+                                )
+
+                            [SellerInfo] => stdClass Object
+                                (
+                                    [StoreOrigin] => K
+                                    [SellerCount] => 0
+                                )
+
+                            [Fulfillment] => stdClass Object
+                                (
+                                    [DefaultFullfillment] => TW
+                                    [DirectDelivery] => false
+                                )
+
+                            [OtherInfo] => stdClass Object
+                                (
+                                    [BeanType] => ProductBean
+                                    [AutomotiveDivision] => false
+                                    [NewBundleExperience] => No
+                                )
+
+                        )
+
+                    [19] => stdClass Object
+                        (
+                            [Id] => stdClass Object
+                                (
+                                    [PartNumber] => 004W006120666001P
+                                    [SkuPartNumber] => 6120666
+                                    [CatEntryId] => 2335715
+                                    [MfgPartNumber] => 90125
+                                    [KsnValue] => 6120666
+                                )
+
+                            [Description] => stdClass Object
+                                (
+                                    [Name] => Disney by Just Play Doc McStuffins Doctor's Dress Up Set
+                                    [BrandName] => Disney
+                                    [ImageURL] => http://c.shld.net/rpx/i/s/i/spin/image/spin_prod_867248212
+                                    [PbType] => NONVARIATION
+                                    [ReviewRating] => stdClass Object
+                                        (
+                                            [Rating] => 4.5000
+                                            [NumReview] => 7
+                                        )
+
+                                )
+
+                            [Price] => stdClass Object
+                                (
+                                    [DisplayPrice] => 21.99
+                                    [ClearanceIndicator] => 0
+                                    [PromoInd] => 1
+                                )
+
+                            [Availability] => stdClass Object
+                                (
+                                    [StockIndicator] => 1
+                                    [Source] => Online
+                                    [SpuInd] => true
+                                    [FreeShippingEligible] => True
+                                )
+
+                            [SellerInfo] => stdClass Object
+                                (
+                                    [StoreOrigin] => K
+                                    [SellerCount] => 0
+                                )
+
+                            [Fulfillment] => stdClass Object
+                                (
+                                    [DefaultFullfillment] => TW
+                                    [DirectDelivery] => false
+                                )
+
+                            [OtherInfo] => stdClass Object
+                                (
+                                    [BeanType] => ProductBean
+                                    [AutomotiveDivision] => false
+                                    [NewBundleExperience] => No
+                                )
+
+                        )
+
+                    [20] => stdClass Object
+                        (
+                            [Id] => stdClass Object
+                                (
+                                    [PartNumber] => 024W003556585000P
+                                    [SkuPartNumber] => 3556585
+                                    [CatEntryId] => 1630727
+                                    [KsnValue] => 3556585
+                                )
+
+                            [Description] => stdClass Object
+                                (
+                                    [Name] => Bright Starts Clack and Slide&#8482; Activity Ball
+                                    [BrandName] => Bright Starts
+                                    [ImageURL] => http://c.shld.net/rpx/i/s/i/spin/image/spin_prod_546684301
+                                    [PbType] => NONVARIATION
+                                    [ReviewRating] => stdClass Object
+                                        (
+                                            [Rating] => 4.0000
+                                            [NumReview] => 2
+                                        )
+
+                                )
+
+                            [Price] => stdClass Object
+                                (
+                                    [DisplayPrice] => 8.99
+                                    [ClearanceIndicator] => 0
+                                    [PromoInd] => 1
+                                )
+
+                            [Availability] => stdClass Object
+                                (
+                                    [StockIndicator] => 1
+                                    [Source] => Online
+                                    [SpuInd] => true
+                                    [FreeShippingEligible] => True
+                                )
+
+                            [SellerInfo] => stdClass Object
+                                (
+                                    [StoreOrigin] => K
+                                    [SellerCount] => 0
+                                )
+
+                            [Fulfillment] => stdClass Object
+                                (
+                                    [DefaultFullfillment] => TW
+                                    [DirectDelivery] => false
+                                )
+
+                            [OtherInfo] => stdClass Object
+                                (
+                                    [BeanType] => ProductBean
+                                    [AutomotiveDivision] => false
+                                    [NewBundleExperience] => No
+                                )
+
+                        )
+
+                    [21] => stdClass Object
+                        (
+                            [Id] => stdClass Object
+                                (
+                                    [PartNumber] => 004W003463546000P
+                                    [SkuPartNumber] => 3463546
+                                    [CatEntryId] => 1559630
+                                    [MfgPartNumber] => 25330
+                                    [KsnValue] => 3463546
+                                )
+
+                            [Description] => stdClass Object
+                                (
+                                    [Name] => Just Kidz Shopping Cart Playset - Pink
+                                    [BrandName] => Just Kidz
+                                    [ImageURL] => http://c.shld.net/rpx/i/s/i/spin/image/spin_prod_868754412
+                                    [PbType] => NONVARIATION
+                                    [ReviewRating] => stdClass Object
+                                        (
+                                            [Rating] => 4.0000
+                                            [NumReview] => 5
+                                        )
+
+                                )
+
+                            [Price] => stdClass Object
+                                (
+                                    [DisplayPrice] => 15.00
+                                    [ClearanceIndicator] => 0
+                                    [PromoInd] => 1
+                                )
+
+                            [Availability] => stdClass Object
+                                (
+                                    [StockIndicator] => 1
+                                    [Source] => Online
+                                    [FreeShippingEligible] => False
+                                )
+
+                            [SellerInfo] => stdClass Object
+                                (
+                                    [StoreOrigin] => K
+                                    [SellerCount] => 0
+                                )
+
+                            [Fulfillment] => stdClass Object
+                                (
+                                    [DefaultFullfillment] => TW
+                                    [DirectDelivery] => false
+                                )
+
+                            [OtherInfo] => stdClass Object
+                                (
+                                    [BeanType] => ProductBean
+                                    [AutomotiveDivision] => false
+                                    [NewBundleExperience] => No
+                                )
+
+                        )
+
+                    [22] => stdClass Object
+                        (
+                            [Id] => stdClass Object
+                                (
+                                    [PartNumber] => 004V005150146001P
+                                    [SkuPartNumber] => 5150146
+                                    [CatEntryId] => 2602533
+                                    [MfgPartNumber] => 07RHO
+                                    [KsnValue] => 5150146
+                                )
+
+                            [Description] => stdClass Object
+                                (
+                                    [Name] => Fun Wheels Toys Honda Super Quad- 12 Volt Speed Quad in Red
+                                    [BrandName] => Fun Wheels Toys
+                                    [ImageURL] => http://c.shld.net/rpx/i/s/i/spin/image/spin_prod_915297812
+                                    [PbType] => NONVARIATION
+                                    [ReviewRating] => stdClass Object
+                                        (
+                                        )
+
+                                )
+
+                            [Price] => stdClass Object
+                                (
+                                    [DisplayPrice] => 279.99
+                                    [ClearanceIndicator] => 0
+                                    [PromoInd] => 1
+                                )
+
+                            [Availability] => stdClass Object
+                                (
+                                    [StockIndicator] => 1
+                                    [Source] => Online
+                                    [FreeShippingEligible] => False
+                                )
+
+                            [SellerInfo] => stdClass Object
+                                (
+                                    [StoreOrigin] => K
+                                    [SellerCount] => 0
+                                )
+
+                            [Fulfillment] => stdClass Object
+                                (
+                                    [DefaultFullfillment] => VD
+                                    [DirectDelivery] => false
+                                )
+
+                            [OtherInfo] => stdClass Object
+                                (
+                                    [BeanType] => ProductBean
+                                    [AutomotiveDivision] => false
+                                    [NewBundleExperience] => No
+                                )
+
+                        )
+
+                    [23] => stdClass Object
+                        (
+                            [Id] => stdClass Object
+                                (
+                                    [PartNumber] => 004V002770095000P
+                                    [SkuPartNumber] => 2770095
+                                    [CatEntryId] => 1343901
+                                    [MfgPartNumber] => Big-56342
+                                    [KsnValue] => 2770095
+                                )
+
+                            [Description] => stdClass Object
+                                (
+                                    [Name] => Big Toys SLK Bobby Benz
+                                    [BrandName] => Big Toys
+                                    [ImageURL] => http://c.shld.net/rpx/i/s/i/spin/image/spin_prod_139245301
+                                    [PbType] => NONVARIATION
+                                    [ReviewRating] => stdClass Object
+                                        (
+                                        )
+
+                                )
+
+                            [Price] => stdClass Object
+                                (
+                                    [DisplayPrice] => 98.00
+                                    [ClearanceIndicator] => 0
+                                    [PromoInd] => 1
+                                )
+
+                            [Availability] => stdClass Object
+                                (
+                                    [StockIndicator] => 1
+                                    [Source] => Online
+                                    [SpuInd] => true
+                                    [ResInd] => 1
+                                    [FreeShippingEligible] => False
+                                )
+
+                            [SellerInfo] => stdClass Object
+                                (
+                                    [StoreOrigin] => K
+                                    [SellerCount] => 0
+                                )
+
+                            [Fulfillment] => stdClass Object
+                                (
+                                    [DefaultFullfillment] => VD
+                                    [DirectDelivery] => false
+                                )
+
+                            [OtherInfo] => stdClass Object
+                                (
+                                    [BeanType] => ProductBean
+                                    [AutomotiveDivision] => false
+                                    [NewBundleExperience] => No
+                                )
+
+                        )
+
+                    [24] => stdClass Object
+                        (
+                            [Id] => stdClass Object
+                                (
+                                    [PartNumber] => 5290000000001303P
+                                    [SkuPartNumber] => 1583262
+                                    [CatEntryId] => 968328
+                                    [MfgPartNumber] => Big-1303
+                                    [KsnValue] => 1583262
+                                )
+
+                            [Description] => stdClass Object
+                                (
+                                    [Name] => Big Toys Bobby Car Classic
+                                    [BrandName] => Big Toys
+                                    [ImageURL] => http://c.shld.net/rpx/i/s/i/spin/image/spin_prod_118035101
+                                    [PbType] => NONVARIATION
+                                    [ReviewRating] => stdClass Object
+                                        (
+                                            [Rating] => 5.0000
+                                            [NumReview] => 1
+                                        )
+
+                                )
+
+                            [Price] => stdClass Object
+                                (
+                                    [DisplayPrice] => 69.00
+                                    [ClearanceIndicator] => 0
+                                    [PromoInd] => 1
+                                )
+
+                            [Availability] => stdClass Object
+                                (
+                                    [StockIndicator] => 1
+                                    [Source] => Online
+                                    [SpuInd] => true
+                                    [ResInd] => 1
+                                    [FreeShippingEligible] => False
+                                )
+
+                            [SellerInfo] => stdClass Object
+                                (
+                                    [StoreOrigin] => K
+                                    [SellerCount] => 0
+                                )
+
+                            [Fulfillment] => stdClass Object
+                                (
+                                    [DefaultFullfillment] => VD
+                                    [DirectDelivery] => false
+                                )
+
+                            [OtherInfo] => stdClass Object
+                                (
+                                    [BeanType] => ProductBean
+                                    [AutomotiveDivision] => false
+                                    [NewBundleExperience] => No
+                                )
+
+                        )
+
+                )
+
+            [FilterProducts] => Array
+                (
+                    [0] => stdClass Object
+                        (
+                            [FilterKey] => Brand
+                            [FilterValues] => Array
+                                (
+                                    [0] => stdClass Object
+                                        (
+                                            [Name] => HASBRO
+                                            [FilterIndex] => 0
+                                            [ContentCount] => 628
+                                            [Category] => 
+                                        )
+
+                                    [1] => stdClass Object
+                                        (
+                                            [Name] => Disney
+                                            [FilterIndex] => 1
+                                            [ContentCount] => 456
+                                            [Category] => 
+                                        )
+
+                                    [2] => stdClass Object
+                                        (
+                                            [Name] => WWE
+                                            [FilterIndex] => 2
+                                            [ContentCount] => 399
+                                            [Category] => 
+                                        )
+
+                                    [3] => stdClass Object
+                                        (
+                                            [Name] => Barbie
+                                            [FilterIndex] => 3
+                                            [ContentCount] => 314
+                                            [Category] => 
+                                        )
+
+                                    [4] => stdClass Object
+                                        (
+                                            [Name] => LEGO
+                                            [FilterIndex] => 4
+                                            [ContentCount] => 241
+                                            [Category] => 
+                                        )
+
+                                    [5] => stdClass Object
+                                        (
+                                            [Name] => Mega Bloks
+                                            [FilterIndex] => 5
+                                            [ContentCount] => 225
+                                            [Category] => 
+                                        )
+
+                                    [6] => stdClass Object
+                                        (
+                                            [Name] => TOMY
+                                            [FilterIndex] => 6
+                                            [ContentCount] => 223
+                                            [Category] => 
+                                        )
+
+                                    [7] => stdClass Object
+                                        (
+                                            [Name] => Swim Time
+                                            [FilterIndex] => 7
+                                            [ContentCount] => 221
+                                            [Category] => 
+                                        )
+
+                                    [8] => stdClass Object
+                                        (
+                                            [Name] => MGA Entertainment Inc
+                                            [FilterIndex] => 8
+                                            [ContentCount] => 204
+                                            [Category] => 
+                                        )
+
+                                    [9] => stdClass Object
+                                        (
+                                            [Name] => Just Kidz
+                                            [FilterIndex] => 9
+                                            [ContentCount] => 202
+                                            [Category] => 
+                                        )
+
+                                    [10] => stdClass Object
+                                        (
+                                            [Name] => Fisher-Price
+                                            [FilterIndex] => 10
+                                            [ContentCount] => 201
+                                            [Category] => 
+                                        )
+
+                                    [11] => stdClass Object
+                                        (
+                                            [Name] => Sweet Jojo Designs
+                                            [FilterIndex] => 11
+                                            [ContentCount] => 182
+                                            [Category] => 
+                                        )
+
+                                    [12] => stdClass Object
+                                        (
+                                            [Name] => Thomas & Friends
+                                            [FilterIndex] => 12
+                                            [ContentCount] => 179
+                                            [Category] => 
+                                        )
+
+                                    [13] => stdClass Object
+                                        (
+                                            [Name] => Marvel
+                                            [FilterIndex] => 13
+                                            [ContentCount] => 167
+                                            [Category] => 
+                                        )
+
+                                    [14] => stdClass Object
+                                        (
+                                            [Name] => Crayola
+                                            [FilterIndex] => 14
+                                            [ContentCount] => 160
+                                            [Category] => 
+                                        )
+
+                                    [15] => stdClass Object
+                                        (
+                                            [Name] => Guidecraft
+                                            [FilterIndex] => 15
+                                            [ContentCount] => 152
+                                            [Category] => 
+                                        )
+
+                                    [16] => stdClass Object
+                                        (
+                                            [Name] => Learning Resources
+                                            [FilterIndex] => 16
+                                            [ContentCount] => 149
+                                            [Category] => 
+                                        )
+
+                                    [17] => stdClass Object
+                                        (
+                                            [Name] => Educational Insights
+                                            [FilterIndex] => 17
+                                            [ContentCount] => 139
+                                            [Category] => 
+                                        )
+
+                                    [18] => stdClass Object
+                                        (
+                                            [Name] => Beyblade
+                                            [FilterIndex] => 18
+                                            [ContentCount] => 133
+                                            [Category] => 
+                                        )
+
+                                    [19] => stdClass Object
+                                        (
+                                            [Name] => Vtech
+                                            [FilterIndex] => 19
+                                            [ContentCount] => 126
+                                            [Category] => 
+                                        )
+
+                                    [20] => stdClass Object
+                                        (
+                                            [Name] => Step 2
+                                            [FilterIndex] => 20
+                                            [ContentCount] => 119
+                                            [Category] => 
+                                        )
+
+                                    [21] => stdClass Object
+                                        (
+                                            [Name] => K'NEX
+                                            [FilterIndex] => 21
+                                            [ContentCount] => 117
+                                            [Category] => 
+                                        )
+
+                                    [22] => stdClass Object
+                                        (
+                                            [Name] => WonderWorld
+                                            [FilterIndex] => 22
+                                            [ContentCount] => 116
+                                            [Category] => 
+                                        )
+
+                                    [23] => stdClass Object
+                                        (
+                                            [Name] => LeapFrog
+                                            [FilterIndex] => 23
+                                            [ContentCount] => 115
+                                            [Category] => 
+                                        )
+
+                                    [24] => stdClass Object
+                                        (
+                                            [Name] => Bleacher Creatures
+                                            [FilterIndex] => 24
+                                            [ContentCount] => 112
+                                            [Category] => 
+                                        )
+
+                                    [25] => stdClass Object
+                                        (
+                                            [Name] => Mattel
+                                            [FilterIndex] => 25
+                                            [ContentCount] => 99
+                                            [Category] => 
+                                        )
+
+                                    [26] => stdClass Object
+                                        (
+                                            [Name] => The Queen's Treasures
+                                            [FilterIndex] => 26
+                                            [ContentCount] => 99
+                                            [Category] => 
+                                        )
+
+                                    [27] => stdClass Object
+                                        (
+                                            [Name] => Little Tikes
+                                            [FilterIndex] => 27
+                                            [ContentCount] => 98
+                                            [Category] => 
+                                        )
+
+                                    [28] => stdClass Object
+                                        (
+                                            [Name] => Diamond Select Toys
+                                            [FilterIndex] => 28
+                                            [ContentCount] => 96
+                                            [Category] => 
+                                        )
+
+                                    [29] => stdClass Object
+                                        (
+                                            [Name] => Monster High
+                                            [FilterIndex] => 29
+                                            [ContentCount] => 96
+                                            [Category] => 
+                                        )
+
+                                    [30] => stdClass Object
+                                        (
+                                            [Name] => MASTERPIECES
+                                            [FilterIndex] => 30
+                                            [ContentCount] => 94
+                                            [Category] => 
+                                        )
+
+                                    [31] => stdClass Object
+                                        (
+                                            [Name] => Jakks Pacific
+                                            [FilterIndex] => 31
+                                            [ContentCount] => 91
+                                            [Category] => 
+                                        )
+
+                                    [32] => stdClass Object
+                                        (
+                                            [Name] => &#160;
+                                            [FilterIndex] => 32
+                                            [ContentCount] => 90
+                                            [Category] => 
+                                        )
+
+                                    [33] => stdClass Object
+                                        (
+                                            [Name] => Nerf
+                                            [FilterIndex] => 33
+                                            [ContentCount] => 88
+                                            [Category] => 
+                                        )
+
+                                    [34] => stdClass Object
+                                        (
+                                            [Name] => Power Rangers
+                                            [FilterIndex] => 34
+                                            [ContentCount] => 84
+                                            [Category] => 
+                                        )
+
+                                    [35] => stdClass Object
+                                        (
+                                            [Name] => Alex Toys
+                                            [FilterIndex] => 35
+                                            [ContentCount] => 83
+                                            [Category] => 
+                                        )
+
+                                    [36] => stdClass Object
+                                        (
+                                            [Name] => Nickelodeon
+                                            [FilterIndex] => 36
+                                            [ContentCount] => 82
+                                            [Category] => 
+                                        )
+
+                                    [37] => stdClass Object
+                                        (
+                                            [Name] => Teenage Mutant Ninja Turtles
+                                            [FilterIndex] => 37
+                                            [ContentCount] => 82
+                                            [Category] => 
+                                        )
+
+                                    [38] => stdClass Object
+                                        (
+                                            [Name] => Playskool
+                                            [FilterIndex] => 38
+                                            [ContentCount] => 80
+                                            [Category] => 
+                                        )
+
+                                    [39] => stdClass Object
+                                        (
+                                            [Name] => Duncan Toys
+                                            [FilterIndex] => 39
+                                            [ContentCount] => 77
+                                            [Category] => 
+                                        )
+
+                                    [40] => stdClass Object
+                                        (
+                                            [Name] => Cardinal Ind Toys
+                                            [FilterIndex] => 40
+                                            [ContentCount] => 76
+                                            [Category] => 
+                                        )
+
+                                    [41] => stdClass Object
+                                        (
+                                            [Name] => Imaginext
+                                            [FilterIndex] => 41
+                                            [ContentCount] => 73
+                                            [Category] => 
+                                        )
+
+                                    [42] => stdClass Object
+                                        (
+                                            [Name] => Underground Toys
+                                            [FilterIndex] => 42
+                                            [ContentCount] => 72
+                                            [Category] => 
+                                        )
+
+                                    [43] => stdClass Object
+                                        (
+                                            [Name] => Bepuzzled
+                                            [FilterIndex] => 43
+                                            [ContentCount] => 70
+                                            [Category] => 
+                                        )
+
+                                    [44] => stdClass Object
+                                        (
+                                            [Name] => Hot Wheels
+                                            [FilterIndex] => 44
+                                            [ContentCount] => 70
+                                            [Category] => 
+                                        )
+
+                                    [45] => stdClass Object
+                                        (
+                                            [Name] => Beyond 123
+                                            [FilterIndex] => 45
+                                            [ContentCount] => 69
+                                            [Category] => 
+                                        )
+
+                                    [46] => stdClass Object
+                                        (
+                                            [Name] => ClearWater
+                                            [FilterIndex] => 46
+                                            [ContentCount] => 68
+                                            [Category] => 
+                                        )
+
+                                    [47] => stdClass Object
+                                        (
+                                            [Name] => My Owner's Box
+                                            [FilterIndex] => 47
+                                            [ContentCount] => 68
+                                            [Category] => 
+                                        )
+
+                                    [48] => stdClass Object
+                                        (
+                                            [Name] => Transformers
+                                            [FilterIndex] => 48
+                                            [ContentCount] => 67
+                                            [Category] => 
+                                        )
+
+                                    [49] => stdClass Object
+                                        (
+                                            [Name] => DC Comics
+                                            [FilterIndex] => 49
+                                            [ContentCount] => 66
+                                            [Category] => 
+                                        )
+
+                                )
+
+                        )
+
+                    [1] => stdClass Object
+                        (
+                            [FilterKey] => offer
+                            [FilterValues] => Array
+                                (
+                                    [0] => stdClass Object
+                                        (
+                                            [Name] => All Items On Sale
+                                            [FilterIndex] => 50
+                                            [ContentCount] => 3691
+                                            [Category] => 
+                                        )
+
+                                    [1] => stdClass Object
+                                        (
+                                            [Name] => Buy One Get One
+                                            [FilterIndex] => 51
+                                            [ContentCount] => 195
+                                            [Category] => 
+                                        )
+
+                                    [2] => stdClass Object
+                                        (
+                                            [Name] => Clearance
+                                            [FilterIndex] => 52
+                                            [ContentCount] => 195
+                                            [Category] => 
+                                        )
+
+                                    [3] => stdClass Object
+                                        (
+                                            [Name] => Companion
+                                            [FilterIndex] => 53
+                                            [ContentCount] => 152
+                                            [Category] => 
+                                        )
+
+                                    [4] => stdClass Object
+                                        (
+                                            [Name] => Free Delivery
+                                            [FilterIndex] => 54
+                                            [ContentCount] => 34
+                                            [Category] => 
+                                        )
+
+                                    [5] => stdClass Object
+                                        (
+                                            [Name] => Free Shipping
+                                            [FilterIndex] => 55
+                                            [ContentCount] => 14570
+                                            [Category] => 
+                                        )
+
+                                )
+
+                        )
+
+                    [2] => stdClass Object
+                        (
+                            [FilterKey] => discount
+                            [FilterValues] => Array
+                                (
+                                    [0] => stdClass Object
+                                        (
+                                            [Name] => 1
+                                            [FilterIndex] => 56
+                                            [ContentCount] => 3509
+                                            [Category] => 
+                                        )
+
+                                    [1] => stdClass Object
+                                        (
+                                            [Name] => 20
+                                            [FilterIndex] => 57
+                                            [ContentCount] => 1274
+                                            [Category] => 
+                                        )
+
+                                    [2] => stdClass Object
+                                        (
+                                            [Name] => 30
+                                            [FilterIndex] => 58
+                                            [ContentCount] => 563
+                                            [Category] => 
+                                        )
+
+                                    [3] => stdClass Object
+                                        (
+                                            [Name] => 50
+                                            [FilterIndex] => 59
+                                            [ContentCount] => 186
+                                            [Category] => 
+                                        )
+
+                                    [4] => stdClass Object
+                                        (
+                                            [Name] => 70
+                                            [FilterIndex] => 60
+                                            [ContentCount] => 52
+                                            [Category] => 
+                                        )
+
+                                )
+
+                        )
+
+                )
+
+            [FilterRanks] => Array
+                (
+                    [0] => stdClass Object
+                        (
+                            [Name] => Brand
+                            [Rank] => 1
+                        )
+
+                    [1] => stdClass Object
+                        (
+                            [Name] => filterShipping
+                            [Rank] => 998
+                        )
+
+                    [2] => stdClass Object
+                        (
+                            [Name] => condition
+                            [Rank] => 999
+                        )
+
+                    [3] => stdClass Object
+                        (
+                            [Name] => Rating
+                            [Rank] => 996
+                        )
+
+                    [4] => stdClass Object
+                        (
+                            [Name] => Price
+                            [Rank] => 2
+                        )
+
+                    [5] => stdClass Object
+                        (
+                            [Name] => Promotions
+                            [Rank] => 5
+                        )
+
+                    [6] => stdClass Object
+                        (
+                            [Name] => storeOrigin
+                            [Rank] => 997
+                        )
+
+                    [7] => stdClass Object
+                        (
+                            [Name] => offer
+                            [Rank] => 3
+                        )
+
+                    [8] => stdClass Object
+                        (
+                            [Name] => discount
+                            [Rank] => 999
+                        )
+
+                )
+
+            [Categories] => Array
+                (
+                    [0] => stdClass Object
+                        (
+                            [ProdCountAggr] => 14123
+                            [KeyWord] => toys
+                            [Name] => Toys & Games
+                            [Category] => Toys & Games
+                        )
+
+                    [1] => stdClass Object
+                        (
+                            [ProdCountAggr] => 1307
+                            [KeyWord] => toys
+                            [Name] => Spring
+                            [Category] => Spring
+                        )
+
+                    [2] => stdClass Object
+                        (
+                            [ProdCountAggr] => 848
+                            [KeyWord] => toys
+                            [Name] => Baby
+                            [Category] => Baby
+                        )
+
+                    [3] => stdClass Object
+                        (
+                            [ProdCountAggr] => 816
+                            [KeyWord] => toys
+                            [Name] => Gifts
+                            [Category] => Gifts
+                        )
+
+                    [4] => stdClass Object
+                        (
+                            [ProdCountAggr] => 503
+                            [KeyWord] => toys
+                            [Name] => Fitness & Sports
+                            [Category] => Fitness & Sports
+                        )
+
+                    [5] => stdClass Object
+                        (
+                            [ProdCountAggr] => 437
+                            [KeyWord] => toys
+                            [Name] => Pet Supplies
+                            [Category] => Pet Supplies
+                        )
+
+                    [6] => stdClass Object
+                        (
+                            [ProdCountAggr] => 431
+                            [KeyWord] => toys
+                            [Name] => For the Home
+                            [Category] => For the Home
+                        )
+
+                    [7] => stdClass Object
+                        (
+                            [ProdCountAggr] => 164
+                            [KeyWord] => toys
+                            [Name] => Furniture & Mattresses
+                            [Category] => Furniture & Mattresses
+                        )
+
+                    [8] => stdClass Object
+                        (
+                            [ProdCountAggr] => 137
+                            [KeyWord] => toys
+                            [Name] => Kids
+                            [Category] => Kids
+                        )
+
+                    [9] => stdClass Object
+                        (
+                            [ProdCountAggr] => 127
+                            [KeyWord] => toys
+                            [Name] => Women's
+                            [Category] => Women's
+                        )
+
+                    [10] => stdClass Object
+                        (
+                            [ProdCountAggr] => 114
+                            [KeyWord] => toys
+                            [Name] => Sports Fan Shop
+                            [Category] => Sports Fan Shop
+                        )
+
+                    [11] => stdClass Object
+                        (
+                            [ProdCountAggr] => 90
+                            [KeyWord] => toys
+                            [Name] => Men's
+                            [Category] => Men's
+                        )
+
+                    [12] => stdClass Object
+                        (
+                            [ProdCountAggr] => 87
+                            [KeyWord] => toys
+                            [Name] => Seasonal
+                            [Category] => Seasonal
+                        )
+
+                    [13] => stdClass Object
+                        (
+                            [ProdCountAggr] => 55
+                            [KeyWord] => toys
+                            [Name] => Tools
+                            [Category] => Tools
+                        )
+
+                    [14] => stdClass Object
+                        (
+                            [ProdCountAggr] => 48
+                            [KeyWord] => toys
+                            [Name] => Food & Grocery
+                            [Category] => Food & Grocery
+                        )
+
+                    [15] => stdClass Object
+                        (
+                            [ProdCountAggr] => 46
+                            [KeyWord] => toys
+                            [Name] => TVs & Electronics
+                            [Category] => TVs & Electronics
+                        )
+
+                    [16] => stdClass Object
+                        (
+                            [ProdCountAggr] => 42
+                            [KeyWord] => toys
+                            [Name] => Appliances
+                            [Category] => Appliances
+                        )
+
+                    [17] => stdClass Object
+                        (
+                            [ProdCountAggr] => 40
+                            [KeyWord] => toys
+                            [Name] => Office Products
+                            [Category] => Office Products
+                        )
+
+                    [18] => stdClass Object
+                        (
+                            [ProdCountAggr] => 33
+                            [KeyWord] => toys
+                            [Name] => Bed & Bath
+                            [Category] => Bed & Bath
+                        )
+
+                    [19] => stdClass Object
+                        (
+                            [ProdCountAggr] => 20
+                            [KeyWord] => toys
+                            [Name] => Clothing
+                            [Category] => Clothing
+                        )
+
+                    [20] => stdClass Object
+                        (
+                            [ProdCountAggr] => 20
+                            [KeyWord] => toys
+                            [Name] => Movies Music & Gaming
+                            [Category] => Movies Music & Gaming
+                        )
+
+                    [21] => stdClass Object
+                        (
+                            [ProdCountAggr] => 15
+                            [KeyWord] => toys
+                            [Name] => Lawn & Garden
+                            [Category] => Lawn & Garden
+                        )
+
+                    [22] => stdClass Object
+                        (
+                            [ProdCountAggr] => 11
+                            [KeyWord] => toys
+                            [Name] => Books & Magazines
+                            [Category] => Books & Magazines
+                        )
+
+                    [23] => stdClass Object
+                        (
+                            [ProdCountAggr] => 8
+                            [KeyWord] => toys
+                            [Name] => Jewelry
+                            [Category] => Jewelry
+                        )
+
+                    [24] => stdClass Object
+                        (
+                            [ProdCountAggr] => 5
+                            [KeyWord] => toys
+                            [Name] => Computers
+                            [Category] => Computers
+                        )
+
+                    [25] => stdClass Object
+                        (
+                            [ProdCountAggr] => 5
+                            [KeyWord] => toys
+                            [Name] => Outdoor Living
+                            [Category] => Outdoor Living
+                        )
+
+                    [26] => stdClass Object
+                        (
+                            [ProdCountAggr] => 3
+                            [KeyWord] => toys
+                            [Name] => Automotive
+                            [Category] => Automotive
+                        )
+
+                    [27] => stdClass Object
+                        (
+                            [ProdCountAggr] => 2
+                            [KeyWord] => toys
+                            [Name] => Cameras & Camcorders
+                            [Category] => Cameras & Camcorders
+                        )
+
+                    [28] => stdClass Object
+                        (
+                            [ProdCountAggr] => 2
+                            [KeyWord] => toys
+                            [Name] => Health & Wellness
+                            [Category] => Health & Wellness
+                        )
+
+                    [29] => stdClass Object
+                        (
+                            [ProdCountAggr] => 1
+                            [KeyWord] => toys
+                            [Name] => Beauty
+                            [Category] => Beauty
+                        )
+
+                    [30] => stdClass Object
+                        (
+                            [ProdCountAggr] => 1
+                            [KeyWord] => toys
+                            [Name] => Shoes
+                            [Category] => Shoes
+                        )
+
+                )
+
+            [Status] => stdClass Object
+                (
+                    [ResponseCode] => 0
+                    [RespMessage] => Successful
+                )
+
+            [ApiTracking] => Server: PROD-SERVER-4|Tracking ID: {1389317852666}|API Client Session Key: 8237830375558463703|Time : Thu Jan 09 19:37:32 CST 2014|UID : 8237830375558463703|From Cache : Y
+        )
+
+)

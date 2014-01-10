@@ -1,0 +1,39 @@
+<?php
+require_once('searsapi.php');
+
+
+$sears = new SearsAPIConnection();
+
+$resp = $sears->keyword_search('3514561|3313243');
+
+
+echo '<table border="1">';
+
+//echo '<tr><td>Name</td><td>KSN</td></tr>';
+
+foreach ($resp->get_json()->SearchResults->Products as $product) {
+
+  echo '<tr>'.
+    '<td>'.$product->Description->Name.'</td>'.
+    '<td>'.$product->Id->KsnValue.'</td>';
+
+  if ($product->Availability->StockIndicator == '1') {
+    echo '<td>In Stock</td>';
+
+  } else {
+    echo '<td>Out of Stock</td>';
+
+  }
+
+
+  echo '</tr>';   
+
+  
+
+}
+
+echo '</table>';
+
+
+
+?>
