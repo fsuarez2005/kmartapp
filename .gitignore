@@ -1,0 +1,14 @@
+
+
+
+# emacs temp files
+\#*
+
+# hidden files
+.*
+
+# bak files
+*.bak
+*~
+
+fr
