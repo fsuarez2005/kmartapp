@@ -1,0 +1,8 @@
+#!/usr/bin/perl
+
+use ksn;
+
+
+print(
+    ksn::full_ksn_2_partial($ARGV[0])
+    );
