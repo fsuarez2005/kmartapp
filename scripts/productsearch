@@ -1,0 +1,13 @@
+#!/usr/bin/perl
+
+# simple script to get info about product
+
+
+sub get_product_json {
+    # 
+
+
+}
+
+
+
